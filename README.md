@@ -25,7 +25,7 @@ Download both the data sets.
 Download all the libraries mentioned in libraries.txt file
 Use Dark Theme.
 
-Since I have used free verion of heroku the loading speed is slow.
+Since I have used free version of heroku the loading speed is slow.
 
 
 
